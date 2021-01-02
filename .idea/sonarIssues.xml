@@ -3,52 +3,47 @@
   <component name="issues">
     <option name="index">
       <map>
-        <entry key="$PROJECT_DIR$/../hydra-vue-ui/docs/.vuepress/config.js">
+        <entry key="$PROJECT_DIR$/build/components.json">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../hydra-vue-ui/docs/.vuepress/enhanceApp.js">
+        <entry key="$PROJECT_DIR$/build/gen-style.js">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../hydra-vue-ui/docs/README.md">
+        <entry key="$PROJECT_DIR$/build/webpack.base.js">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../hydra-vue-ui/docs/components/guide/guide.md">
+        <entry key="$PROJECT_DIR$/build/webpack.component.js">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../hydra-vue-ui/docs/components/guide/introduction.md">
+        <entry key="$PROJECT_DIR$/build/webpack.prod.js">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../hydra-vue-ui/package.json">
+        <entry key="$PROJECT_DIR$/components/tsconfig.json">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../hydra-vue-ui/src/packages/button/button.vue">
+        <entry key="$PROJECT_DIR$/docs/.vuepress/config.js">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../hydra-vue-ui/src/packages/button/index.js">
+        <entry key="$PROJECT_DIR$/docs/.vuepress/enhanceApp.js">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../hydra-vue-ui/src/packages/utils/assist.js">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../hydra-vue/package.json">
+        <entry key="$PROJECT_DIR$/docs/README.md">
           <value>
             <set />
           </value>
@@ -64,6 +59,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/docs/component/basic/notice.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs/components/basic/form.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs/components/basic/notice.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs/components/guide/guide.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs/components/guide/introduction.md">
           <value>
             <set />
           </value>
@@ -118,12 +133,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/packages/utils/assist.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/styles/index.scss">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/styles/mixins/mixins.scss">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/utils/assist.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test/specs/button.spec.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hydra-vue/package.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/work/lime-ui/build/gen-style.js">
           <value>
             <set />
           </value>
@@ -144,6 +184,11 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/work/lime-ui/src/packages/button/button.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/work/lime-ui/src/packages/form/form.vue">
           <value>
             <set />
           </value>

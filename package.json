@@ -4,7 +4,16 @@
   "description": "light weight vue.js component library",
   "main": "lib/hydra-vue-ui.min.js",
   "scripts": {
-    "docs:dev": "vuepress dev docs"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "clean": "rimraf lib",
+    "build:style": "gulp --gulpfile build/gen-style.js",
+    "build:components": "webpack --config build/webpack.component.js",
+    "build:prod": "webpack --config build/webpack.prod.js",
+    "test": "karma start test/karma.config.js --single-run",
+    "dist": "npm run test && npm run build:style && npm run build:prod && npm run build:components",
+    "deploy": "gh-pages -d docs/.vuepress/dist",
+    "deploy:build": "npm run docs:build && npm run deploy"
   },
   "dependencies": {
     "async-validator": "^3.0.4",
